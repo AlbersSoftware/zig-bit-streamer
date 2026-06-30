@@ -138,7 +138,7 @@ how much ceremony you want.
 
 ### Option A — just copy the file (simplest)
 
-For a library this small, the lowest-friction approach is often to copy
+Copy
 `src/bit_reader.zig` directly into your project and `@import` it by
 relative path:
 
